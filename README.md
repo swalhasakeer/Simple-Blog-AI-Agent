@@ -103,7 +103,11 @@ The final result is a polished, structured blog ready for publishing.
 
 ## 🔑 **API Key**
 
-You'll need an API key from an LLM provider (e.g., Groq, OpenAI). Make sure to set it securely in your notebook or .env file.
+You will need the following API keys to run this project:
+
+* LLM Provider Key – For models like Groq, OpenAI, etc.
+
+* SerpAPI Key – Used for web search tasks or enhancing agent responses with real-time data.
 
 ## 🤝 **Contribution**
 
